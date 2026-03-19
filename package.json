@@ -1,0 +1,9 @@
+{
+    "name": "electron-ipc-workspace",
+    "version": "0.1.0",
+    "description": "electron ipc workspace",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
